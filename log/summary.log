@@ -1,0 +1,42 @@
+...< TEST FAILED >...   d 
+...< TEST FAILED >...   d 
+...< TEST FAILED >...   d 
+...< TEST FAILED >...   d 
+...< TEST FAILED >...   d 
+...< TEST FAILED >...   d 
+...< TEST FAILED >...   d 
+...< TEST FAILED >...   dasda 
+...< TEST FAILED >...   dasda 
+...< TEST FAILED >...   dasda 
+...< TEST PASS >...   SQLReview71365_mc.sql 
+...< Notes Check > ...  /home/chenzhonghua/SQLReview/log/SQLReview71365_mc_2014-04-01.log
+...< TEST FAILED >... SQLReview71365_mc.sql 
+...< Notes Check > ...  /home/chenzhonghua/SQLReview/log/SQLReview71365_mc_2014-04-01.log
+...< TEST FAILED >... SQLReview71365_mc.sql 
+...< Notes Check > ...  /home/chenzhonghua/SQLReview/log/SQLReview71365_mc_2014-04-01.log
+...< TEST PASS >...   SQLReview71365_mc.sql 
+...< Notes Check > ...  /home/chenzhonghua/SQLReview/log/SQLReview71365_mc_2014-04-01.log
+...< TEST PASS >...   SQLReview71365_mc.sql 
+...< Notes Check > ...  /home/chenzhonghua/SQLReview/log/SQLReview71365_mc_2014-04-01.log
+...< TEST FAILED >... SQLReview71373_customers.sql 
+...< TEST FAILED >... SQLReview71373_customers.sql 
+...< TEST FAILED >... SQLReview71373_customers.sql 
+...< TEST PASS >...   SQLReview71373_customers.sql 
+...< TEST PASS >...   SQLReview71373_customers.sql 
+...< TEST PASS >...   SQLReview71373_customers.sql 
+...< TEST PASS >...   litb_v3_accept_carriers.sql 
+...< TEST FAILED >... ltbridal_v3_accept_carriers.sql 
+...< TEST PASS >...   ltbridal_v3_accept_carriers.sql 
+...< TEST FAILED >... mini_v3_accept_carriers.sql 
+...< TEST PASS >...   mini_v3_accept_carriers.sql 
+...< TEST PASS >...   litb_v3_accept_carriers.sql 
+...< TEST PASS >...   ltbridal_v3_accept_carriers.sql 
+...< TEST PASS >...   mini_v3_accept_carriers.sql 
+...< TEST PASS >...   update1.sql 
+...< TEST PASS >...   update2.sql 
+...< TEST PASS >...   update3.sql 
+...< TEST PASS >...   update4.sql 
+...< TEST PASS >...   update5.sql 
+...< TEST PASS >...   SQLReview71674_warehouse_table.sql 
+...< TEST PASS >...   SQLReview71674_warehouse_table.sql 
+...< TEST PASS >...   SQLReview71674_warehouse_table.sql 
